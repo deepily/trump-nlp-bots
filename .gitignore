@@ -1,0 +1,6 @@
+data/
+embeddings/
+models/
+output/
+sequences/
+tokenizers/
