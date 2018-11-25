@@ -4,3 +4,4 @@ models/
 output/
 sequences/
 tokenizers/
+.ipynb_checkpoints
